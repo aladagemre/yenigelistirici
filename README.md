@@ -3,7 +3,7 @@ Giriş
 
 [![Sohbete katılın https://gitter.im/aladagemre/yenigelistirici](https://badges.gitter.im/aladagemre/yenigelistirici.svg)](https://gitter.im/aladagemre/yenigelistirici?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-* [Gitbook Sayfası](https://aladagemre.gitbooks.io/yenigelistirici/content/)
+* [Gitbook Sayfası](https://www.gitbook.com/book/aladagemre/yenigelistirici/details)
 * [Kitabı Okuyun](https://aladagemre.gitbooks.io/yenigelistirici/content/)
 
 Bu kitapta yazılım geliştirici olmaya ilk adımını atanlara yol gösterici bilgiler ve tavsiyeler verilecektir. Kitabın sektörden birçok geliştiricinin tecrübelerini barındırması hedeflenmektedir. Bu kitapta teorikten ziyade az ve öz pratik bilgi sunulması hedeflenmektedir.
