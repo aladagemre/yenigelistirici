@@ -1,0 +1,3 @@
+# Agile
+
+* Avoid premature optimization.
