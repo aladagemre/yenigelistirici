@@ -1,6 +1,8 @@
 Giriş
 =======
 
+[![Join the chat at https://gitter.im/aladagemre/yenigelistirici](https://badges.gitter.im/aladagemre/yenigelistirici.svg)](https://gitter.im/aladagemre/yenigelistirici?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Bu kitapta yazılım geliştirici olmaya ilk adımını atanlara yol gösterici bilgiler ve tavsiyeler verilecektir. Kitabın sektörden birçok geliştiricinin tecrübelerini barındırması hedeflenmektedir. Bu kitapta teorikten ziyade az ve öz pratik bilgi sunulması hedeflenmektedir.
 
 Kitabın çıkış sebebi üniversitelerdeki eğitimin sektördeki ihtiyaçlarla uyuşmaması, öğrencilerin güncel teknolojilerden haberdar olmamasıdır. Kitabın hedefi öğrencilerin büyük resim hakkında fikir sahibi olmalarını ve ilgi duyabileceği konuları keşfetmelerini sağlamaktır.
