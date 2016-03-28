@@ -1,8 +1,11 @@
 # Editörler
 
 * Atom
-* vim
-* emacs
+* Vim
+* Emacs
 * IntelliJ
 * Eclipse
 * Netbeans
+* Sublime Text
+* TextMate
+* RubyMine
