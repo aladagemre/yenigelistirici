@@ -17,6 +17,7 @@
 * [Programlama Dilleri](programlama_dilleri.md)
    * [Python](python.md)
    * [Crystal](crystal.md)
+   * [Ruby](ruby.md)
 * [Araçlar](araclar.md)
    * [git](git.md)
    * [Editörler](editorler.md)
