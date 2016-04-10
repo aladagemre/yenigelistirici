@@ -22,6 +22,7 @@
    * [git](git.md)
    * [Editörler](editorler.md)
 * [Web Geliştirme](web_gelistirme.md)
+   * [Framework'ler](frameworks.md)
 * [Yazılım Kalitesi](yazilim_kalitesi.md)
    * [Hata Ayıklama](hata_ayiklama.md)
    * [Yardım İsteme](yardim_isteme.md)
