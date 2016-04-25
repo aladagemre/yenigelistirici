@@ -1,3 +1,2 @@
 # Agile
-
-* Avoid premature optimization.
+Atik (çevik) yazılım geliştirme, basit prensiplere dayanan yazılım geliştirme metotları gruplarının genel adı. Bu metotlar genelde alışılmış denetim ve uyum süreçlerini teşvik eden proje yönetim işlemlerine önayak olurlar. Bu yaklaşım; takım çalışmasıyla gelen liderlik psikolojisi, kendi kendini düzene sokma (örgütleme), sorumluluk, yüksek kalitedeki yazılımların hızlı dağıtımını onaylayan en iyi mühendislik örnekleri ve iş yaşamında müşteri ihtiyaçlarıyla şirketlerin temel amaçlarını, vizyonlarını koordine etme işlevi de görmektedir.
