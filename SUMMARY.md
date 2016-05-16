@@ -1,10 +1,10 @@
 # Summary
 
 * [Giriş](README.md)
-* [Bilgisayarın Temelleri](chapter1.md)
-   * [Donanım](donanim.md)
-   * [Yazılım](yazilim.md)
-   * [Ağ](ag.md)
+* [Bilgisayarın Temelleri](bolum_1/bilgisayarlarin_temelleri.md)
+   * [Donanım](bolum_1/donanim.md)
+   * [Yazılım](bolum_1/yazilim.md)
+   * [Ağ](bolum_1/ag.md)
 * [Programlama Dillerine Giriş](programlama_dillerine_giris.md)
    * [Çalıştırma Tarzlarına Göre](calistirma_tarzlarina_gore.md)
    * [Tip Tanımına Göre](tip_tanimina_gore.md)
