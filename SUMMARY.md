@@ -21,6 +21,7 @@
 * [Araçlar](bolum_5/araclar.md)
    * [git](bolum_5/git.md)
    * [Editörler](bolum_5/editorler.md)
+   * [IDE'ler](bolum_5/ide.md)
 * [Web Geliştirme](bolum_6/web_gelistirme.md)
    * [Framework'ler](bolum_6/frameworks.md)
 * [Yazılım Kalitesi](bolum_7/yazilim_kalitesi.md)
