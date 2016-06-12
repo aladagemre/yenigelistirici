@@ -1,4 +1,9 @@
 {
     "plugins": ["image-captions"],
-    "pluginsConfig": {}
+    "pluginsConfig": {
+      "image-captions": {
+            "caption": "Şekil _PAGE_LEVEL_: _CAPTION_",
+            "align": "left"
+        }
+    }
 }
