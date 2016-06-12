@@ -3,7 +3,8 @@
     "pluginsConfig": {
       "image-captions": {
             "caption": "Şekil _PAGE_LEVEL_._PAGE_IMAGE_NUMBER_: _CAPTION_",
-            "align": "left"
-        }
+            "align": "left",
+            "images": { "1.1.1": { "skip": true } }
+      }
     }
 }

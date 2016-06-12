@@ -1,9 +1,6 @@
 # Editörler
 
-Editör bizim kodlarımızı yazıp dosyalara kaydettiğimiz küçük programlardır. Bu
-programlarda genellikle bir dosya yönetim kısmı, ve kodlarımızı yazdıkça renkli 
-renkli görebileceğimiz bir kısmı bulunmaktadır. Örneğin aşağıda Sublime Text
-editöründen bir ekran görüntüsü görebilirsiniz. 
+Editör (Düzenleyici) bizim kodlarımızı yazıp dosyalara kaydettiğimiz küçük programlardır. Bu programlarda genellikle bir dosya yönetim kısmı ve kodlarımızı yazdıkça renkli renkli görebileceğimiz bir kısmı bulunmaktadır. Örneğin aşağıda Sublime Text editöründen bir ekran görüntüsü görebilirsiniz. 
 
 ![SublimeText](/gitbook/images/sublime.png)
 
