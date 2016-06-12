@@ -5,7 +5,7 @@
    * [Donanım](bolum_1/donanim.md)
    * [Yazılım](bolum_1/yazilim.md)
    * [Ağ](bolum_1/ag.md)
-   * Birimler
+   * [Birimler](bolum_1/birimler.md)
 * [Programlama Dillerine Giriş](bolum_2/programlama_dillerine_giris.md)
    * [Çalıştırma Tarzlarına Göre](bolum_2/calistirma_tarzlarina_gore.md)
    * [Tip Tanımına Göre](bolum_2/tip_tanimina_gore.md)
