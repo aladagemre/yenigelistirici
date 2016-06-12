@@ -2,7 +2,7 @@
     "plugins": ["image-captions"],
     "pluginsConfig": {
       "image-captions": {
-            "caption": "Şekil _PAGE_LEVEL_: _CAPTION_",
+            "caption": "Şekil _PAGE_LEVEL_._PAGE_IMAGE_NUMBER_: _CAPTION_",
             "align": "left"
         }
     }
