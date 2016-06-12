@@ -4,6 +4,8 @@ Bilgisayar donanımı çok sayıda elektronik parçanın birlikte çalışmasın
 
 ## Kasa
 
+Bilgisayarın elektronik parçalarını barındıran kapalı kutuya verilen addır. Kapalı olması, parçaların tozlanmasını ve diğer temasları engeller. Kasaya çoğu zaman soğutucu fanı olan bir güç kaynağı (power supply) monte edilir. Bu parça ile elektronik parçaların oluşturduğu ısı kasanın dışına çıkartılır. Elektronik parçaların sıcak ortamda performansının düştüğü düşünülürse kasa, güç kaynağı ve soğutucunun önemi görülebilir.
+
 ## Anakart ([Motherboard](https://en.wikipedia.org/wiki/Motherboard))
 
 ![Anakart (Moxfyre, en.wikipedia, CC BY-SA 3.0)](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Acer_E360_Socket_939_motherboard_by_Foxconn.svg/440px-Acer_E360_Socket_939_motherboard_by_Foxconn.svg.png)
@@ -28,7 +30,7 @@ Diskin dönme hızı ne kadar fazlaysa o kadar hızlı okuma ve yazma gerçekle�
 
 ### SSD (Solid-state Drive)
 
-![SSD (by D-Kuru from Wikimedia Commons)](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Vertex_2_Solid_State_Drive_by_OCZ-top_oblique_PNr%C2%B00307.jpg/220px-Vertex_2_Solid_State_Drive_by_OCZ-top_oblique_PNr%C2%B00307.jpg)
+![SSD (D-Kuru @ Wikimedia Commons)](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Vertex_2_Solid_State_Drive_by_OCZ-top_oblique_PNr%C2%B00307.jpg/440px-Vertex_2_Solid_State_Drive_by_OCZ-top_oblique_PNr%C2%B00307.jpg)
 
 Verilerin ardışık yazılmadığı, rastgele erişimin (random access) önemli olduğu noktalarda öne çıkan bir teknoloji ise Katı Hal Sürücüdür (SSD). HDD'leri pikapa benzetirken SSD'leri bal peteğine benzetebiliriz. SSD'lerde diskin herhangi bir noktasındaki veriyi okumak aynı zamanı almaktadır. Manyetik HDD'lerde yazma hızı ortalama 150 MB/s iken SSD'lerde bu 560 MB/s'dir. HDD'lere kıyasla düşük enerji ile çalışır, daha az ısınır, sessiz çalışır ve (adında disk yer almasına rağmen) hareketli mekanik aksam olmadığı için sarsıntılara karşı dayanıklıdır.
 
@@ -47,7 +49,7 @@ RAM'ler ile SSD'ler benzer teknolojiye sahiptir. Bal peteği gibi düşündüğ�
 
 ## İşlemci (CPU)
 
-![İşlemci: Intel CPU Core i7 2600K Sandy Bridge (Eric Gaba at en.wikipedia)](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Intel_CPU_Core_i7_2600K_Sandy_Bridge_bottom.jpg/440px-Intel_CPU_Core_i7_2600K_Sandy_Bridge_bottom.jpg)
+![İşlemci: Intel CPU Core i7 2600K Sandy Bridge (Eric Gaba @ en.wikipedia)](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Intel_CPU_Core_i7_2600K_Sandy_Bridge_bottom.jpg/440px-Intel_CPU_Core_i7_2600K_Sandy_Bridge_bottom.jpg)
 
 Bilgisayarın verileri işleyen, karar veren, programları adım adım çalıştıran parçasıdır. Gerekli verileri sabit diskten RAM'e aktarır ve RAM üzerindeki bilgiler üzerinde işlem yapar. Sonuçların tekrar diske yazılmasını sağlayabilir. 
 
@@ -62,7 +64,7 @@ Sabit Diski evimizdeki kütüphane, RAM'i masaüstümüz olarak düşünürsek b
 
 ## Grafik İşlemci (GPU)
 
-![Grafik İşlemci - GPU (Berkut at en.wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/6600GT_GPU.jpg/440px-6600GT_GPU.jpg)
+![Grafik İşlemci - GPU (Berkut @ en.wikipedia)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/6600GT_GPU.jpg/440px-6600GT_GPU.jpg)
 
 İlk zamanlar sadece ekranda görüntülenecek olan grafiklerin hesaplanması amacıyla üretilen ve Ekran Kartı ismi verilen bu parça, zamanla matematiksel işlem yapma noktasında CPU'lardan daha yüksek hızlarda çalışabilen bir parça haline geldi. En yeni GPU'ların clock rate'i 2000 Mhz seviyelerine ulaşabilmekte olup bu hızla bile eşdeğer bir CPU'dan kat kat fazla matematiksel işlem yapabilmektedirler.
 
