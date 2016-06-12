@@ -64,8 +64,8 @@ Sabit Diski evimizdeki kütüphane, RAM'i masaüstümüz olarak düşünürsek b
 
 ![Grafik İşlemci - GPU (Berkut at en.wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/6600GT_GPU.jpg/440px-6600GT_GPU.jpg)
 
-İlk zamanlar Ekran Kartı ismi verilen bu parça, zamanla matematiksel işlem yapma noktasında CPU'lardan daha yüksek hızlarda çalışabilen bir parça haline geldi. En yeni GPU'ların clock rate'i 2000 Mhz seviyelerine ulaşabilmektedir. Bununla birlikte bu hızla CPU'dan 10 kat fazla iş yapabilmektedirler.
+İlk zamanlar sadece ekranda görüntülenecek olan grafiklerin hesaplanması amacıyla üretilen ve Ekran Kartı ismi verilen bu parça, zamanla matematiksel işlem yapma noktasında CPU'lardan daha yüksek hızlarda çalışabilen bir parça haline geldi. En yeni GPU'ların clock rate'i 2000 Mhz seviyelerine ulaşabilmekte olup bu hızla bile eşdeğer bir CPU'dan kat kat fazla matematiksel işlem yapabilmektedirler.
 
-GPU'ların ek olarak dahili bellekleri bulunmaktadır. Günümüzde 4 GB'a ulaşan bellek boyutlarına sahip olabilmektedirler. Bununla birlikte çoğu dizüstü bilgisayarda GPU, anakarta monte edilmiş haldedir ve RAM'in belleğini kullanır.
+GPU'ların günümüzde 4 GB'a ulaşan boyutlarda dahili bellekleri bulunmaktadır. Bununla birlikte yüksek performans gerektirmeyen çoğu dizüstü bilgisayarda GPU, anakarta monte edilmiş haldedir ve RAM'in belleğini kullanır.
 
-Masaüstü bilgisayarlarda kullanılabilecek yüksek hızlı ve yüksek bellekli bir GPU ile yapay zeka algoritmaları ve 3 boyutlu modelleme işlemleri hızlıca gerçekleştirilebilir.
+Masaüstü bilgisayarlarda kullanılabilecek yüksek hızlı ve yüksek bellekli bir GPU ile 3 boyutlu detaylı grafiklere sahip olan oyunlar performanslı bir şekilde oynanabilmekte, amacına ek olarak yapay zeka algoritmaları ve 3 boyutlu modelleme işlemleri hızlıca gerçekleştirilebilmektedir.
