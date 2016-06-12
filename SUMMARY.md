@@ -2,10 +2,11 @@
 
 * [Giriş](README.md)
 * [Bilgisayarın Temelleri](bolum_1/bilgisayarlarin_temelleri.md)
+   * [Birimler](bolum_1/birimler.md)
    * [Donanım](bolum_1/donanim.md)
    * [Yazılım](bolum_1/yazilim.md)
    * [Ağ](bolum_1/ag.md)
-   * [Birimler](bolum_1/birimler.md)
+   * [İşletim Sistemi](bolum_1/isletim_sistemi.md)
 * [Programlama Dillerine Giriş](bolum_2/programlama_dillerine_giris.md)
    * [Çalıştırma Tarzlarına Göre](bolum_2/calistirma_tarzlarina_gore.md)
    * [Tip Tanımına Göre](bolum_2/tip_tanimina_gore.md)

@@ -2,7 +2,9 @@
 
 Bilgisayar donanımı çok sayıda elektronik parçanın birlikte çalışmasından oluşmaktadır. Gelin bu parçaların en önemli olanlarını birlikte tanıyalım.
 
-## Kasa
+## Kasa ([Case](https://en.wikipedia.org/wiki/Computer_case))
+
+![Kasa](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Stripped-computer-case.JPG/440px-Stripped-computer-case.JPG)
 
 Bilgisayarın elektronik parçalarını barındıran kapalı kutuya verilen addır. Kapalı olması, parçaların tozlanmasını ve diğer temasları engeller. Kasaya çoğu zaman soğutucu fanı olan bir güç kaynağı (power supply) monte edilir. Bu parça ile elektronik parçaların oluşturduğu ısı kasanın dışına çıkartılır. Elektronik parçaların sıcak ortamda performansının düştüğü düşünülürse kasa, güç kaynağı ve soğutucunun önemi görülebilir.
 
@@ -12,7 +14,7 @@ Bilgisayarın elektronik parçalarını barındıran kapalı kutuya verilen add�
 
 Anakart, bütün parçaların üzerine takıldığı, sistemdeki elektrik iletimi ve haberleşmeyi sağlayan iskelet ya da sinir sistemi olarak da görebileceğimiz bir parçadır. Anakart genellikle kasanın büyük bir bölümüne yayılmaktadır. Üzerinde, parçaların takılabileceği soket adı verilen bölmeler bulunmaktadır. Toplama bilgisayar alınması durumunda anakartın desteklediği teknolojilere ve soket türlerine uygun parçalar takılmasına dikkat edilmelidir.
 
-## Sabit Disk
+## Sabit Disk (Disk Drive)
 
 Sabit disk, bilgisayarın uzun vadeli hafızasıdır diyebiliriz. Bir insanın çocukluğunda yaşadıklarını her an aklına getirmemesine rağmen gerektiğinde yıllar sonra hatırlayabiliyor olması gibi sabit disk de verilerin uzun vadeli hafıza görevi görmektedir. Programların kurulduğu, dosyaların saklandığı yer sabit disktir. Farklı sabit disk teknolojileri mevcuttur:
 
@@ -28,7 +30,7 @@ Alakalı ardışık verilerin bir silindir veya komşu silindirler üzerine ard�
 
 Diskin dönme hızı ne kadar fazlaysa o kadar hızlı okuma ve yazma gerçekleşir. Bu hızın birimi dakikadaki tur sayısı - round per minute (rpm) ile tanımlanır. Günümüzde 5400, 7200 ve 10000 rpm hızlı 500 GB, 1 TB, 2 TB kapasiteli HDD'ler yaygındır. HDD'ler, günümüzde genellikle [SATA](https://en.wikipedia.org/wiki/Serial_ATA) arayüzü üzerinden anakarta bağlanmaktadır. 
 
-### SSD (Solid-state Drive)
+### SSD ([Solid-state Drive](https://en.wikipedia.org/wiki/Solid-state_drive))
 
 ![SSD (D-Kuru @ Wikimedia Commons)](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Vertex_2_Solid_State_Drive_by_OCZ-top_oblique_PNr%C2%B00307.jpg/440px-Vertex_2_Solid_State_Drive_by_OCZ-top_oblique_PNr%C2%B00307.jpg)
 
@@ -36,9 +38,15 @@ Verilerin ardışık yazılmadığı, rastgele erişimin (random access) önemli
 
 Dezavantaj olarak HDD'lere kıyasla daha küçük boyutlarda diskler üretilmektedir ve ortalama 4 kat daha pahalıya satılmaktadır.
 
-### Flash
+### [Flash](https://en.wikipedia.org/wiki/Flash_memory)
 
-## Bellek (RAM)
+Yazılacak
+
+### [SD Kart](https://en.wikipedia.org/wiki/Secure_Digital)
+
+Yazılacak
+
+## Bellek ([RAM](https://en.wikipedia.org/wiki/Random-access_memory))
 
 ![Bellek - Random Access Memory](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Memory_module_DDRAM_20-03-2006.jpg/440px-Memory_module_DDRAM_20-03-2006.jpg)
 

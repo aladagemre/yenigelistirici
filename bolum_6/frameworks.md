@@ -1,5 +1,6 @@
 # Web Uygulama Çatıları
 
 * Ruby on Rails (Ruby)
-* Django (Python)
+* Kemal (Crytsal)
+* Django, Flask (Python)
 * Laravel (Php)
