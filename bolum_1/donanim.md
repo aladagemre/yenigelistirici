@@ -21,6 +21,7 @@ Sabit disk, bilgisayarın uzun vadeli hafızasıdır diyebiliriz. Bir insanın �
 Plak benzeri manyetik bir diskin (platter) üzerinde okuyucu bir kafanın (head) diskin üzerindeki bitleri okuması prensibine dayanan disk türüdür. Diskin üzerinde içten dışarıya doğru iç içe halkalar bulunmaktadır. Bu halkalara silindir ([track/cylinder](https://en.wikipedia.org/wiki/Cylinder-head-sector)) denilmektedir. Her bir halkanın üzerine sırayla 10010101001... şeklinde bitler manyetik olarak kodlanır ve tekrar okunur. Diskin iç kısımlarındaki verileri okumak için okuyucu kafanın iç silindirlere doğru uzanması, halkanın bir noktasındaki veriyi okumak içinse diskin dönerek istenen noktanın kafanın altına gelmesinin beklenmesi gerekmektedir. 
 
 ![Silindir ve Sektör](https://upload.wikimedia.org/wikipedia/commons/0/02/Cylinder_Head_Sector.svg)
+
 Alakalı ardışık verilerin bir silindir veya komşu silindirler üzerine ardışık olarak yazılması durumunda performanslı bir yazma ve okuma imkanı sağlar. Ama okunmak istenen veriler diskin rastgele noktalarında olduğunda kafanın kalkıp yer değiştirmesi gerektiğinden performans düşük olabilmektedir. Manyetik yapıları gereği silinen verileri kurtarmak bu tür disklerde daha kolay olmakla birlikte harici manyetik etkilere karşı daha hassastır. Çarpma ve sarsıntı gibi durumlardan etkilenebilirler.
 
 Hard diskler, günümüzde genellikle [SATA](https://en.wikipedia.org/wiki/Serial_ATA) arayüzü üzerinden anakarta bağlanmaktadır. 
