@@ -1,6 +1,8 @@
 Giriş
 =======
 
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-sa/4.0/)
+
 [![Sohbete katılın https://gitter.im/aladagemre/yenigelistirici](https://badges.gitter.im/aladagemre/yenigelistirici.svg)](https://gitter.im/aladagemre/yenigelistirici?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 * [Gitbook Sayfası](https://www.gitbook.com/book/aladagemre/yenigelistirici/details)
@@ -13,3 +15,5 @@ Kitabın çıkış sebebi üniversitelerdeki eğitimin sektördeki ihtiyaçlarla
 Örneğin Frontend geliştirmeye merak duyan bir öğrenci, üniversitede öğrendiği 2000'li yılların Javascript'ine ek olarak ES6, Typescript gibi Javascript türevlerini keşfedebilecek, gulp/browserify tarzı araçların varlığını ve hangi durumlarda kullanılacağını, CSS'in artık LESS ve SASS gibi pre-processorlarla geliştirildiğini öğrenebilecektir. Bu araçların artı ve eksilerini ve geliştirme sürecinin genel hatlarını öğrenme imkanı bulacaktır. Single Page yaklaşımının hangi durumlarda avantajlı olduğunu bilecektir.
 
 Kitap henüz taslak halinde olup katkı ve düzeltmeleriniz memnuniyetle karşılanır.
+
+
