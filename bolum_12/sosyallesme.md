@@ -11,3 +11,7 @@
 * Meetup.com
 * Facebook Grupları
 * Twitter
+* Youtube Kanalları
+  * Confreaks - Bazı teknoloji etkinliklerinin videolarının bulunduğu kanal.
+  * Thoughtbot - Thoughtbot firmasının kod ve eğlenceli paylaşımlar yaptığı kanal.
+  * MinuteVimTricks - Vim hakkında bilgilerin verildiği kanal.
