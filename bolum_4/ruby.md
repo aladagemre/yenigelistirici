@@ -27,6 +27,8 @@ Ruby programlama dilinin ilk temelleri 24 Şubat 1993'te Yukihiro Matsumoto (Mat
 + Twitter (ilk zamanları)
 + Github
 + Groupon
++ Gitlab
+
 
 ## Geliştirme Ortamları
 Ruby ile geliştirme yapmak için bir metin editörü ve bir adet konsol uygulamasına ihtiyacınız vardır.
@@ -41,13 +43,13 @@ sayılabilir. Ayrıca IDE (Entegre geliştirme ortamı)'de tercih edilebilir. ID
 + Rubymine
 + Aptana Studio
 
-
 kullanılabilir.
 
 ## Kaynaklar ve Topluluk
 + Sıtkı Bağdat, Ruby (http://www.dikeyeksen.com/products/ruby)
 + Prof. Dr. Timur Karaçay, Ruby (http://www.seckin.com.tr/kitap/369965548)
 + Ruby 101 Kitabı (https://vigo.gitbooks.io/ruby-101/content/)
++ Ender Kuş, Ruby Programlama (http://www.kodlab.com/BookDetail.aspx?ID=134405)
 + Ruby Türkiye (rubyturkiye.org)
 
 ## Diğer Uyarlamalar
