@@ -22,11 +22,9 @@ EcmaScript 5-6-7, Typescript, Coffeescript
 
 # Transpiler
 
-https:\/\/scotch.io\/tutorials\/javascript-transpilers-what-they-are-why-we-need-them
+* [https://scotch.io//tutorials//javascript-transpilers-what-they-are-why-we-need-them](https://scotch.io//tutorials//javascript-transpilers-what-they-are-why-we-need-them)
 
-[Babel](https://babeljs.io/),
-
-
+* [Babel](https://babeljs.io/)
 
 # Frameworkler
 
@@ -38,11 +36,9 @@ https:\/\/scotch.io\/tutorials\/javascript-transpilers-what-they-are-why-we-need
 
 ## Vue.js
 
-
-
 # Kod Kalitesi
 
-Her dilde olduğu gibi Javascript'te yaygın olarak kullanılan kod standartları mevcuttur. Bu standartların uygulandığından emin olmak için linter araçlarıyla kod analizi yapılmaktadır. Projenizin kök dizinine koyacağınız .eslintrc dosyası içinde belirteceğiniz kurallara göre kod tabanınızın belli standartlarda olmasını sağlayabilirsiniz. 
+Her dilde olduğu gibi Javascript'te yaygın olarak kullanılan kod standartları mevcuttur. Bu standartların uygulandığından emin olmak için linter araçlarıyla kod analizi yapılmaktadır. Projenizin kök dizinine koyacağınız .eslintrc dosyası içinde belirteceğiniz kurallara göre kod tabanınızın belli standartlarda olmasını sağlayabilirsiniz.
 
 Editörler için yazılan [Atom linter-eslint ](https://atom.io/packages/linter-eslint)gibi eklenti ile yazdığınız koddaki sorunları anlık olarak görebilir ve hata mesajlarına bakarak düzeltebilirsiniz. Yine eklenti ayarlarından dosyayı kaydetmenizle beraber otomatik düzeltme yapılmasını sağlayabilirsiniz. Bununla birlikte komut satırından manuel olarak kontrolleri yapmanız mümkündür.
 
