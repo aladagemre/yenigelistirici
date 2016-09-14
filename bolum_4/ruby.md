@@ -50,7 +50,7 @@ kullanılabilir.
 + Prof. Dr. Timur Karaçay, Ruby (http://www.seckin.com.tr/kitap/369965548)
 + Ruby 101 Kitabı (https://vigo.gitbooks.io/ruby-101/content/)
 + Ender Kuş, Ruby Programlama (http://www.kodlab.com/BookDetail.aspx?ID=134405)
-+ Ruby Türkiye (rubyturkiye.org)
++ Ruby Türkiye (rubyturkiye.org)[rubyturkiye.org]
 
 ## Diğer Uyarlamalar
 Standart Ruby'e alternatif olarak geliştirilen bazı uyarlamalar mevcuttur. Bu uyarlamalar; bazı alanlarda Ruby'nin daha etkin kullanılmasını ve belli platformlara hitap etmesini vaat etmektedir. Bunlardan en yaygın olanları;
